@@ -667,7 +667,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
 
 ########## Converge 2 ##########
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kapamilya_Channel_logo.svg/512px-Kapamilya_Channel_logo.svg.png" group-title="news",KAPAMILYA HD (CON)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjA8TwnmkW_NEsaTi2KMbswVCU-oS0QDPGHA&s" group-title="news",KAPAMILYA HD (CON)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/
