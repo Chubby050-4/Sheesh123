@@ -500,16 +500,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 
-#EXTINF:-1 tvg-id="dreamworks-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DreamWorks_Animation_SKG_Logo.svg/1280px-DreamWorks_Animation_SKG_Logo.svg.png" group-title="cartoons & animations",DreamWorks HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="dreamworks-tagalized" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DreamWorks_Animation_SKG_Logo.svg/1280px-DreamWorks_Animation_SKG_Logo.svg.png" group-title="cartoons & animations",DreamWorks Tagalized
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
-
 #EXTINF:-1 tvg-id="fashiontv-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FashionTV_logo.svg/1280px-FashionTV_logo.svg.png" group-title="entertainment",FashionTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d7c1f2a6b4e4a8d8f33c1e5b7d2a960:3a18c535c52db7c79823f59036a9d195
